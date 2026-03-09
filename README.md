@@ -1,4 +1,4 @@
-# 🧠 LingoAI — Advanced Conversational AI Platform
+#  LingoAI — Advanced Conversational AI Platform
 
 LingoAI is a modern **Conversational AI platform** built for intelligent dialogue, reasoning, memory, retrieval, tool execution, and multimodal interaction through **text + voice**.
 
@@ -15,45 +15,45 @@ LingoAI combines **LLMs, retrieval systems, knowledge graphs, planner agents, to
 
 ---
 
-# 🚀 Core Capabilities
+#  Core Capabilities
 
-## 💬 Conversational Intelligence
+##  Conversational Intelligence
 - Multi-turn contextual conversations
 - Intent understanding and semantic parsing
 - Dialogue state tracking
 - Personalized memory injection
 
-## 🧠 Reasoning and Planning
+##  Reasoning and Planning
 - LLM-driven reasoning
 - Planner-based tool selection
 - Multi-step execution
 - Hybrid deterministic + generative workflows
 
-## 📚 Retrieval and Knowledge
+##  Retrieval and Knowledge
 - Retrieval-Augmented Generation (RAG)
 - Hybrid search (vector + keyword)
 - Document grounding
 - Knowledge graph integration
 
-## 🔧 Tool Calling
+## Tool Calling
 - External API calls
 - Database querying
 - Calculators and analytics tools
 - Domain-specific tools
 
-## 🎤 Voice AI
+## Voice AI
 - Speech-to-Text (STT)
 - Text-to-Speech (TTS)
 - Audio input/output workflows
 - Real-time voice interactions
 
-## ⚡ Streaming UX
+## Streaming UX
 - Token streaming
 - Progressive rendering
 - Fast perceived latency
 - Interactive AI response flow
 
-## ☁️ Cloud-Native Deployment
+##  Cloud-Native Deployment
 - Microservice-ready backend
 - Containerized deployment
 - Scalable cloud architecture
@@ -61,7 +61,7 @@ LingoAI combines **LLMs, retrieval systems, knowledge graphs, planner agents, to
 
 ---
 
-# 🏗️ End-to-End Architectural Workflow
+#  End-to-End Architectural Workflow
 
 ```mermaid
 flowchart TD
